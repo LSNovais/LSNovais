@@ -96,7 +96,7 @@
             <strong>Database</strong>
          </td>
          <td>
-            <img title="PostgreSQL" alt="logo-pg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg">
+            <img title="OraclePLSQL" alt="logo-pg" height="30" width="40" src="https://acaciolrdba.files.wordpress.com/2019/09/plsql-interview-questions.jpg">
          </td>
          <td>
             <img title="MongoDB" alt="logo-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">

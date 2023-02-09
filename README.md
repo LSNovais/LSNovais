@@ -201,10 +201,10 @@ and better follow-up folder with the development of a financial mobile applicati
    <a href="https://www.linkedin.com/in/lucas-novais/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   <a href="https://www.instagram.com/matheus_brito__/" target="_blank">
+   <a href="https://www.instagram.com/novais__xd/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>  
-   <a href="https://api.whatsapp.com/send?phone=5577998442230" target="_blank">
+   <a href="https://api.whatsapp.com/send?phone=5511983093902" target="_blank">
       <img src="https://img.shields.io/badge/-Whatsapp-%23?style=for-the-badge&logo=whatsapp&logoColor=white">
    </a>
 </div>

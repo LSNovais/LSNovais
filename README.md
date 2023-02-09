@@ -1,13 +1,11 @@
 # Hello, I'm **Lucas** 👋
 
 
-><pre><code>function sayHello(){
->    return "Hello! Welcome to my GitHub!"
->}
-></code></pre>
+<pre><code>function sayHello(){
+    return "Hello! Welcome to my GitHub!"
+}</code></pre>
 
 
-<br>
 
 ## About me 🙋🏻‍♂️
 

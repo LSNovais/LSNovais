@@ -61,6 +61,9 @@ and better follow-up folder with the development of a financial mobile applicati
          <td>
             <img title="groovy" alt="logo-groovy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/groovy/groovy-original.svg">
          </td>
+          <td></td>
+          <td></td>
+          <td></td>
       </tr>
       <tr>
          <td>
@@ -100,7 +103,6 @@ and better follow-up folder with the development of a financial mobile applicati
          <td>
             <img title="Php" alt="logo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
          </td>
-         <td></td>
       </tr>
             <tr>
          <td>
@@ -149,7 +151,8 @@ and better follow-up folder with the development of a financial mobile applicati
          </td>
          <td>
             <img title="Git" alt="logo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-         </td>         
+         </td>     
+         <td></td>
       </tr>
       <tr>
          <td>
@@ -158,6 +161,10 @@ and better follow-up folder with the development of a financial mobile applicati
         <td>
             <img title="Firebase" alt="logo-firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
          </td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td></td>
       </tr>
       <tr>
          <td>
@@ -166,6 +173,10 @@ and better follow-up folder with the development of a financial mobile applicati
         <td>
             <img title="Grafana" alt="logo-grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg">
          </td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td></td>
       </tr>
    </tbody>
 </table>
